@@ -52,6 +52,6 @@ This project provides end-to-end business insights for Foodpanda's food delivery
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+ [  git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)](https://github.com/Asfia-Arpi/Foodpanda-business-intelligence-dashboard.git)
 
 ---
