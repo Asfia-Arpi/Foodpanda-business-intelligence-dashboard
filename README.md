@@ -8,8 +8,7 @@ An interactive and data-driven Business Intelligence dashboard built to analyze 
 
 ## 📊 Dashboard Preview
 
-![Foodpanda BI Dashboard](path/to/your/screenshot.png) 
-*(Note: Replace `path/to/your/screenshot.png` with your uploaded dashboard image path or URL)*
+![Foodpanda BI Dashboard](Foodpanda_Dashboard.png) 
 
 ---
 
@@ -44,14 +43,11 @@ This project provides end-to-end business insights for Foodpanda's food delivery
 
 ## 🛠️ Tools & Technologies Used
 
-* **Business Intelligence:** Power BI / Tableau *(Choose the one you used)*
-* **Data Processing:** SQL / Excel / Python *(Mention your tools)*
+* **Business Intelligence:** Power BI 
+* **Data Processing:** SQL, Excel 
 * **Design & Layout:** Custom UI with Foodpanda Branding
 
 ## 🚀 How to View / Run This Project
-
-1. **Clone the Repository:**
-   ```bash
- [  git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)](https://github.com/Asfia-Arpi/Foodpanda-business-intelligence-dashboard.git)
+ git clone (https://github.com/Asfia-Arpi/Foodpanda-business-intelligence-dashboard.git)
 
 ---
