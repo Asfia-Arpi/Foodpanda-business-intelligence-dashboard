@@ -48,4 +48,10 @@ This project provides end-to-end business insights for Foodpanda's food delivery
 * **Data Processing:** SQL / Excel / Python *(Mention your tools)*
 * **Design & Layout:** Custom UI with Foodpanda Branding
 
+## 🚀 How to View / Run This Project
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+
 ---
